@@ -1,3 +1,3 @@
 # STAT-301-Project
 
-Sadia Khan Durani
+Group Members: Sadia Khan Durani, Eric Yee, Jaden Lai, Danial Ramzan
